@@ -1,4 +1,4 @@
-from python:2.7
+from python:3.6
 ARG APP_DIR=/usr/src/hello_world_printer
 
 WORKDIR /tmp
