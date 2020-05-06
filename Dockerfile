@@ -1,5 +1,8 @@
-from python:3.6
+from python:2.7
+
+
 ARG APP_DIR=/usr/src/hello_world_printer
+
 
 WORKDIR /tmp
 ADD requirements.txt /tmp/requirements.txt

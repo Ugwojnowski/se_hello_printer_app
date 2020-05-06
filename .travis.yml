@@ -13,5 +13,5 @@ script:
   - make docker_push
 deploy:
   provider: heroku
-  app: desolate-woodland-42176
+  app: frozen-scrubland-30820
   api_key: ${HEROKU_API_KEY}
