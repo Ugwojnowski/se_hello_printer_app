@@ -14,4 +14,4 @@ script:
 deploy:
   provider: heroku
   app: frozen-scrubland-30820
-  api_key: ${adc5aa02-49b6-4a36-8e49-59f790c72bff}
+  api_key: adc5aa02-49b6-4a36-8e49-59f790c72bff
