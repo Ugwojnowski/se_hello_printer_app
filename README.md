@@ -1,6 +1,6 @@
-<a href="https://www.travis-ci.org" title="TravisCI master branch"><img src="https://api.travis-ci.org/Ugwojnowski/se_hello_printer_app.svg?branch=master&status=passed" /></a>
+<a href="https://www.travis-ci.org" title="TravisCI master branch"><img src="https://api.travis-ci.org/Ugwojnowski/se_hello_printer_app.svg?branch=master&status=passed" /></a> <br />
 <a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=d6HgOi1x84&Days=1&Design=1" /></a>
-
+<br />
 # Simple Flask App
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
